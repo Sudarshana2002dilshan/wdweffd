@@ -1,5 +1,5 @@
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['62']
+global.owner = ['94765529447']
 global.packname = "Sticker By Denny"
 global.author = "DennyOfficial"
 global.mess = {
